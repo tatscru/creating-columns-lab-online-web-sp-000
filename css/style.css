@@ -11,6 +11,18 @@ body, html {
 .column {
 }
 
+.small {
+
+}
+
+.med {
+
+}
+
+.large {
+
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
