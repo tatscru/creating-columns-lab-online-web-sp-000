@@ -8,6 +8,10 @@ body, html {
   background-color: #666;
 }
 
+.column {
+  
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
