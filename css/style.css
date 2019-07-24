@@ -13,19 +13,19 @@ body, html {
 }
 
 .small {
-  width: 300
-  height: 300
+  width: 300%
+  height: 30%
 
 }
 
 .med {
-  width: auto;
-  height: auto;
+  width: 200%
+  height: 200%
 }
 
 .large {
-  width: auto;
-  height: auto;
+  width: 302%
+  height: 302%
 
 }
 
